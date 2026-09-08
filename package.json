@@ -1,0 +1,19 @@
+{
+  "name": "codezone",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "codezone": "./index.js"
+  },
+  "dependencies": {
+    "commander": "^15.0.0",
+    "inquirer": "^14.2.2"
+  }
+}
